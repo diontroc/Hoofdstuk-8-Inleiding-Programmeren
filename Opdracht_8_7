@@ -1,0 +1,3 @@
+for(int startgetal = 20; startgetal >= 10; startgetal--){
+  println(startgetal);
+}
