@@ -1,0 +1,38 @@
+int a = 0;
+int b = 1;
+
+println(a);
+println(b);
+
+int c = a + b;
+println(c);
+
+int d = b + c;
+println(d);
+
+int e = c + d;
+println(e);
+
+int f = d + e;
+println(f);
+
+int g = e + f;
+println(g);
+
+int i = f + g;
+println(i);
+
+int j = g + i;
+println(j);
+
+int k = i + j;
+println(k);
+
+int l = j + k;
+println(l);
+
+int m = k + l;
+println(m);
+
+int n = l + m;
+println(n);
